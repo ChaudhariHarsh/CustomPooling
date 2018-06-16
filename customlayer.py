@@ -1,6 +1,7 @@
 
 import numpy as np
 
+# Funnction For implementing Kinetic Pooling :
 
 def KineticPool(image,layer_dim):
     (Nrow,Ncol) = image.shape
